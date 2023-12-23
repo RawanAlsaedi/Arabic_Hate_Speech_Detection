@@ -1,2 +1,2 @@
 # Arabic_Hate_Speech_Detection
-In this project, we will be exploring the application of the AraBERT model specifically for the task of hate speech detection. We will use the AJGT Sentiment Analysis dataset from K. M. Alomari, H. M. ElSherif, and K. Shaalan, “Arabic tweets sentimental analysis using machine learning,” in Proceedings of the International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 602–610, Montreal, Canada, June 2017.
+The project focuses on hate speech detection in Arabic text using the AraBERT model and HuggingFace. It involves training a sentiment analysis model on the AJGT Sentiment Analysis dataset, which includes labeled Arabic tweets.
